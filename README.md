@@ -16,7 +16,7 @@ Shorts Tracker to aplikacja mobilna, która pozwala użytkownikom monitorować c
 
 1. Sklonuj repozytorium
 ```bash
-git clone https://github.com/philornot/ShortsTrackerWebsite.git
+git clone https://github.com/ShortsTrackerTeam/ShortsTrackerWebsite.git
 cd ShortsTrackerWebsite
 ```
 
